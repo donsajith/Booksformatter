@@ -1,0 +1,27 @@
+Preflight report: Field Notes on Prompting
+Trim 5.5 × 8.5 in, 28 pages, Cream paper, black ink
+Store rules as published, November 2026. Stores change them: confirm against each store before you order copies.
+
+THE BOOK
+  [NOTE] This is a black-ink interior, so the 2 pictures are written to the PDF in greyscale.
+
+AMAZON KDP
+  [OK] 28 pages, within KDP's 24 to 776.
+  [OK] Margins clear: inside 0.74 in (minimum 0.38), outside 0.57 in.
+  [OK] Interior PDF pages are 5.500 × 8.500 in (exact trim, no bleed), fonts embedded, greyscale only.
+  [OK] Spine 0.070 in from KDP's published formula. Cover sheet 11.320 × 8.750 in.
+  [NOTE] Spine left blank: KDP prints spine text from 80 pages and this book has 28.
+  [OK] Barcode drawn from ISBN 9781402894626, 0.25 in from the spine fold and the bottom trim.
+
+INGRAMSPARK
+  [OK] 28 pages, within IngramSpark's 18 to 1200.
+  [OK] Margins clear: inside 0.74 in (minimum 0.5), outside 0.57 in.
+  [OK] Interior PDF pages are 5.500 × 8.500 in (exact trim, no bleed), fonts embedded, greyscale only.
+  [CHECK] Spine 0.063 in is an estimate: IngramSpark publishes no formula. Get the exact width from its cover template for 28 pages and enter it under Cover, or the upload may be rejected.
+  [NOTE] Spine left blank: IngramSpark prints spine text from 48 pages and this book has 28.
+  [OK] Barcode drawn from ISBN 9781402894626, 0.25 in from the spine fold and the bottom trim.
+  [CHECK] IngramSpark asks for CMYK PDF/X-1a. The cover here is RGB with embedded fonts: IngramSpark converts it on upload and strong colours can shift. For a colour-critical cover, convert the PDF to PDF/X-1a in Acrobat or Affinity first.
+
+EBOOK
+  [OK] EPUB uses a generated identifier. An ebook ISBN is optional on KDP, Kobo, Apple and Draft2Digital.
+  [OK] EPUB 3 with navigation, a contents page for older readers and a cover image marked as the cover.

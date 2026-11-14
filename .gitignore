@@ -1,0 +1,7 @@
+# Test output
+test/out/
+*-files/
+# Local clutter
+node_modules/
+__pycache__/
+.DS_Store

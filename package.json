@@ -1,0 +1,13 @@
+{
+  "name": "booksformatter",
+  "version": "0.1.0",
+  "description": "Print-ready PDF, wrap cover, EPUB and DOCX from one manuscript, for KDP, IngramSpark, Lulu, Draft2Digital, B&N Press and BookVault.",
+  "license": "MIT",
+  "private": true,
+  "bin": { "booksformatter": "cli.mjs" },
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build": "python3 build.py",
+    "test": "node test/run.mjs && node test/cover.mjs && node cli.mjs examples/manuscript.md --out test/out/cli"
+  }
+}
